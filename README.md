@@ -67,6 +67,9 @@ The app uses the [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets
 
 ---
 
+##  Live Demo
+https://diabetes-predictor-chqy3vzcr56oxd2djpp8nw.streamlit.app
+
 ##  Installation
 
 ### Clone the repo
@@ -79,5 +82,7 @@ cd diabetes-predictor
 pip install -r requirements.txt
 
 ### Run the app locally
-streamlit run diabetes_app.py 
+streamlit run diabetes_app.py
+
+
 
