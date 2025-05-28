@@ -19,7 +19,24 @@ A machine learning-powered Streamlit web app that predicts the likelihood of dia
 
 ##  Project Structure
 
-<pre> ### 📁 Project Structure ``` diabetes-predictor/ ├── diabetes_app.py # Streamlit app ├── train_model.py # Model training script ├── diabetes_model.pkl # Trained ML model ├── metrics_plot_accuracy.png # Accuracy + ROC AUC plot ├── metrics_plot_roc.png # ROC curve ├── diabetes.csv # Dataset ├── requirements.txt # Dependency list └── README.md # Documentation ``` </pre>
+diabetes-predictor/
+
+├── diabetes_app.py              # Streamlit app
+
+├── train_model.py               # Model training script
+
+├── diabetes_model.pkl           # Trained ML model
+
+├── metrics_plot_accuracy.png    # Accuracy + ROC AUC plot
+
+├── metrics_plot_roc.png         # ROC curve
+
+├── diabetes.csv                 # Dataset
+
+├── requirements.txt             # Dependency list
+
+└── README.md                    # Documentation
+
 
 
 ---
